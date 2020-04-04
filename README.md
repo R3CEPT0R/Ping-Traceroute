@@ -1,6 +1,6 @@
 # Ping-Traceroute
 
-## Usage
+### Usage
 - To use ping.py, enter ``ping.py <hostname> <number of pings>`` from the command line. The third argument is optional, and if
 none is supplied then the program will simply ping indefinitely until a keyboard interrupt. In both cases,
 statistics are printed at the end. 
